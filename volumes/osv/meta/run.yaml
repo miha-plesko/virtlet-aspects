@@ -1,0 +1,6 @@
+runtime: node
+config_set:
+  app:
+    main: use-volume.js
+
+config_set_default: format_volume1 -> app
