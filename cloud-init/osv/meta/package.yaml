@@ -1,0 +1,5 @@
+name: demo
+title: demo
+author: demo
+require:
+  - osv.cloud-init
